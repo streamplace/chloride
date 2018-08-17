@@ -1,11 +1,11 @@
 {
   "name": "@streamplace/chloride",
-  "version": "2.2.10",
+  "version": "2.2.11",
   "author": "Dominic Tarr",
   "license": "MIT",
   "description": "node.js sodium bindings + pure js polyfil",
-  "browser": "browser.js",
-  "main": "index.js",
+  "browser": "browser-small.js",
+  "main": "browser-small.js",
   "dependencies": {
     "is-electron": "^2.0.0",
     "sodium-browserify": "^1.2.4",
